@@ -1,6 +1,6 @@
 function basicTeenager(age)
 
-if (age < 13) {"you are a teen ager!"
+{
 }
   }
 function teenager(age) {
