@@ -1,10 +1,7 @@
 function basicTeenager(age)
-if (age < 13) {"you are a teenager!"
-} else if (age > 19)
-   {"you are not a teen ager"
-} else (age > 19) {return"You are a grownup"}
- (age < 13){return"you are a kid"
-{
+if (age => 13 && age <=19) {
+return "You are a teenager!"
+}
 }
   }
 function teenager(age) {
